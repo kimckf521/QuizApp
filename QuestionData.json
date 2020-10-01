@@ -1,0 +1,21 @@
+[
+
+  {
+    
+    "question":"What's the keyword for the declaring a new variable?",
+    "answers":["var","v","variable"],
+    "correctAnswerIndex":0,
+    "feedback":"var is the keyword use to declare a new varible."
+    
+  }, 
+  
+  {
+    
+    "question":"What's the keyword for the declaring a new constant?",
+    "answers":["constant","let","con"],
+    "correctAnswerIndex":1,
+    "feedback":"var is the keyword use to declare a new constant."
+    
+  }
+  
+]
